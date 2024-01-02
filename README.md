@@ -1,4 +1,6 @@
-# Flask Web App Tutorial
+# Notes app
+
+Notes app developed using Python, HTML and CSS
 
 ## Setup & Installation
 
